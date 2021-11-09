@@ -1,0 +1,2 @@
+# COMP8740-NEURAL_NETWORK_PROJECT
+- **Weekly Plan**
