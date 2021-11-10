@@ -25,4 +25,12 @@
 
 
 - **Define Tasks Step-by-step**
- -  
+  - 1. define all necessary libraries (On Fly)
+  - 2. Load datasets
+  - 3. Preprocess data
+  - 4. Define Hyperparameters
+  - 5. Define Model
+  - 6. Comple and fit dataset
+  - 7. Call backs
+  - 8. Write code to get the optimal set of hyperparameter using Random Search
+  - 9. Do Grid Search For selecting Number of Hidden layers
