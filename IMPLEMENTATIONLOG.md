@@ -1,10 +1,11 @@
 # COMP8740-NEURAL_NETWORK_PROJECT
-- **Weekly Plan**
-
-
 
 - **Datasets**
--  Tiny-Imagnet-200
+	-  Fruit-360 Dataset
+
+- **Main Goal**
+	- Train ResNet50 with the dataset and compare the performance with out pwn model.
+	- Explore custom loss function, different activation functions, data augmentation (if needed), learning rate scheduling and callbacks. 
 
 - **Hyper-Parameter Optimization**
 	- Activation Function (ReLu, LeakyReLu- will tune the threshold here)
@@ -16,7 +17,7 @@
 	- Number of Hidden Layers (Need to optimize)
 	- Number Units of each Hidden Layers(Need to find optimal hidden units)
 	- Regularization (L2, Dropout)
-	- Initializer (Xiver, He norma)
+	- Initializer (Xaiver, He norma)
 	- Data Augmentation
 
 
@@ -25,7 +26,7 @@
 
 
 - **Define Tasks Step-by-step**
-  - 1. define all necessary libraries (On Fly)
+  - 1. define all necessary libraries (On the Fly)
   - 2. Load datasets
   - 3. Preprocess data
   - 4. Define Hyperparameters
